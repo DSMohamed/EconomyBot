@@ -3,8 +3,8 @@ const { MessageEmbed } = require("discord.js");
 exports.execute = async (client, message, args) => {
     const embed = new MessageEmbed()
         .setAuthor("Commands")
-        .setTitle("Make Sure To Check Out This Channel For More Such Bots")
-        .setURL("https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ")
+        .setTitle("Want to inv me clicl here")
+        .setURL("https://discord.com/api/oauth2/authorize?client_id=884320314866143233&permissions=8&scope=bot")
         .setDescription(`Total Commands: ${client.commands.size}`)
         .setColor("BLURPLE")
         .setTimestamp()

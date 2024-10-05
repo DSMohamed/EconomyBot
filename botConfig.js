@@ -1,5 +1,5 @@
 module.exports = {
-    token: "tk",
+    token: "",
     prefix: "*",
     admins: [
         "586115567560425473"
